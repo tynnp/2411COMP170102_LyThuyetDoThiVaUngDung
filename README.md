@@ -12,3 +12,4 @@ Giảng viên: **TS. Nguyễn Viết Hưng, ThS. Nguyễn Phương Nam**.
 
 ## Lưu trữ
 - **Tài liệu**: Thư mục [Tai_lieu](/Tai_lieu/)
+- **Tài liệu tự học**: Thư mục [Tu_hoc](/Tu_hoc/)
