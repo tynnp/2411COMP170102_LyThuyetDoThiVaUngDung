@@ -4,7 +4,7 @@ Mã lớp học phần: **2411COMP101702**.
 Tên học phần: **Lý thuyết đồ thị và ứng dụng**.  
 Giảng viên: **TS. Nguyễn Viết Hưng, ThS. Nguyễn Phương Nam**.  
 
-**Nhóm đồ án (KHÔNG TÊN)**:
+**Nhóm đồ án (CB - Không Tên)**:
 - Nguyễn Ngọc Phú Tỷ - Mã số sinh viên: 49.01.104.172 - Nhóm trưởng.
 - Trần Lê Triều Dương - Mã số sinh viên: 49.01.104.026.
 - Nguyễn Hữu Minh Quân - Mã số sinh viên: 49.01.104.120.
